@@ -1,0 +1,7 @@
+Balls
+XPOSL	X position	3	SLIDER	X Axis	0	1.0	0.15
+YPOSL	Y Position	3	SLIDER	Y Axis	0	1.0	0.15
+XPOSR	XR position	3	SLIDER	X Rotation	0	1.0	0.15
+YPOSR	YR Position	3	SLIDER	Y Rotation	0	1.0	0.15
+ADD	    Add a ball	1	BUTTON	Button 0	0	0.0	0.0
+DEL	    Remove a ball	1	BUTTON	Button 1	0	0.0	0.0
